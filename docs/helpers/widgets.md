@@ -25,7 +25,7 @@ An example of binding a built in widget to a keyboard shortcut is
 > When you bind a key to a widget any previous key binding will be overridden.
 
 ```bash
-bindkey '^a' begining-of-line
+bindkey '^a' beginning-of-line
 ```
 
 This binds `ctrl+a` to jump to the begining of the current line at a prompt.
